@@ -1,0 +1,52 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "072962FB9E00AEE0A32E76D8189B5CDA7B38692D+++F2D3478",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "aa5e55af-5f65-4e01-9f99-c8f382b4d070++957+++0541BB6" : {
+
+    },
+    "072962FB9E00AEE0A32E76D8189B5CDA7B38692D+++F2D3478" : {
+
+    },
+    "aa5e55af-5f65-4e01-9f99-c8f382b4d070++957+++F3E56D3" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "072962FB9E00AEE0A32E76D8189B5CDA7B38692D+++F2D3478" : 0,
+    "aa5e55af-5f65-4e01-9f99-c8f382b4d070++957+++F3E56D3" : 0,
+    "aa5e55af-5f65-4e01-9f99-c8f382b4d070++957+++0541BB6" : 0,
+    "FD4B50A1723D856A71BE1048006B93BDAA54EE40+++E235E16" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "255EE39F-CAA0-4A03-88CB-05C023499358",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "072962FB9E00AEE0A32E76D8189B5CDA7B38692D+++F2D3478" : "codecamp.xcodeproj\/",
+    "aa5e55af-5f65-4e01-9f99-c8f382b4d070++957+++F3E56D3" : "codecamp.xcodeproj\/",
+    "aa5e55af-5f65-4e01-9f99-c8f382b4d070++957+++0541BB6" : "codecamp.xcodeproj\/",
+    "FD4B50A1723D856A71BE1048006B93BDAA54EE40+++E235E16" : "codecamp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/buddytate\/inscription.xcodeproj.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "072962FB9E00AEE0A32E76D8189B5CDA7B38692D+++F2D3478"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/buddytate\/codecamps.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FD4B50A1723D856A71BE1048006B93BDAA54EE40+++E235E16"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/rendu-svn.etna-alternance.net\/v2\/2020_Prep'ETNA_SDC-DIOS_3_0-1676",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "aa5e55af-5f65-4e01-9f99-c8f382b4d070++957+++0541BB6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/rendu-svn.etna-alternance.net\/v2\/2020_Prep'ETNA_SDC-DIOS_3_0-1676",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "aa5e55af-5f65-4e01-9f99-c8f382b4d070++957+++F3E56D3"
+    }
+  ]
+}
